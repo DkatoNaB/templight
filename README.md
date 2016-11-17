@@ -44,5 +44,5 @@ if done without erros you are free to
 cd build/llvm/tools/clang/tools/templight  
 make  
   
-At this point you should have clang and templight executables in the bin folder.
+At this point you should have clang and templight executables in the bin folder.  
 
